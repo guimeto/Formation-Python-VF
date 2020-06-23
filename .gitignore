@@ -1,1 +1,4 @@
 ./8_pandas/*.csv
+./8_pandas/DATA/*.csv
+./9_visualisation/DATA/*.csv
+i
